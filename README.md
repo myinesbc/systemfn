@@ -63,5 +63,5 @@ Tela de Frequência
 - Maria Inês Borges [@myinesbc](https://github.com/myinesbc)
 - Alison da Silva [@Alison17272](https://github.com/Alison17272)
 - Eric Aguiar [@EriicJunqueira](https://github.com/EriicJunqueira)
-- Leonardo Gonçalves
+- Leonardo Gonçalves [@Leonunes7](https://github.com/Leonunes7)
 - Welterson Gabriel Meira [@weltersongabriel](https://github.com/weltersongabriel)
