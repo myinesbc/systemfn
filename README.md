@@ -64,5 +64,5 @@ Tela de Frequência
 - Alison da Silva [@Alison17272](https://github.com/Alison17272)
 - Eric Aguiar [@EriicJunqueira](https://github.com/EriicJunqueira)
 - Leonardo Gonçalves [@Leonunes7](https://github.com/Leonunes7)
-- Tiago Teixeira Santana [@TiagoTS0] (https://github.com/TiagoTS0)
+- Tiago Teixeira Santana [@TiagoTS0](https://github.com/TiagoTS0)
 - Welterson Gabriel Meira [@weltersongabriel](https://github.com/weltersongabriel)
