@@ -1,3 +1,5 @@
+//Essa é a super classe(classe mãe) ela está definindo os atributos e métodos para as classes Login e Cadastro.
+
 public class Usuario {
     
     //ATRIBUTOS
