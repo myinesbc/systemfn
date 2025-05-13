@@ -45,8 +45,6 @@ public class Attendance {
         System.out.println("Student Name: " + fullName);
         System.out.println("Student ID: " + idNumber);
         System.out.println("Total Classes: " + totalClasses);
-        System.out.println("Classes Attended: " + attendanceDates.size());
         System.out.println("Attendance Percentage: " + calculateAttendancePercentage() + "%");
-        System.out.println("Attendance Dates: " + attendanceDates);
     }
 }
