@@ -9,5 +9,5 @@ public class NotaTotal {
   public double getNotaTotal(){
     return notaTotal;
   }
- 
+
 }
