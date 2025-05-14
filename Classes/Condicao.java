@@ -8,5 +8,4 @@ public class Condicao {
   public void setCondicao(String condicao){
     this.condicao = condicao;
   }
-
 }
