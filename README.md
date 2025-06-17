@@ -13,51 +13,6 @@ Na página do painel, são exibidos os alunos previamente cadastrados pelo profe
 
 Na página de frequência, o usuário pode marcar uma das opções entre presente, ausente ou falta justificada para cada aluno na data exibida. Ao clicar no botão de enviar, a tabela será atualizada automaticamente.
 
-## Telas
-
-Tela de Cadastro
-
-![App Screenshot](https://uploaddeimagens.com.br/images/004/887/326/full/Cadastro.png?1742943290)
-
-
-
-Tela de Login
-
-![App Screenshot](https://uploaddeimagens.com.br/images/004/887/328/full/Login.png?1742943345)
-
-
-
-Tela do Painel
-
-![App Screenshot](https://uploaddeimagens.com.br/images/004/887/327/full/Painel.png?1742943322)
-
-
-
-Tela do Painel após clique na porcentagem de frequência
-
-![App Screenshot](https://uploaddeimagens.com.br/images/004/887/329/full/Painel_-_F.png?1742943365)
-
-
-
-Tela do Painel após clique no símbolo que representa a frequência
-
-![App Screenshot](https://uploaddeimagens.com.br/images/004/887/330/full/Painel_-_F2.png?1742943383)
-
-
-
-Tela do Painel após clique na nota final
-
-![App Screenshot](https://uploaddeimagens.com.br/images/004/887/331/full/Painel_-_N.png?1742943403)
-
-
-
-Tela de Frequência
-
-![App Screenshot](https://uploaddeimagens.com.br/images/004/887/333/full/Frequ%C3%AAncia.png?1742943427)
-
-
-
-
 ## Autores
 
 - Maria Inês Borges [@myinesbc](https://github.com/myinesbc)
