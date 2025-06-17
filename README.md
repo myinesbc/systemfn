@@ -7,11 +7,15 @@ Por meio de uma interface simples, o sistema possibilita a administração efici
 
 ## Como utilizar
 
-Para utilizar o Sistema de Frequência Simples, basta acessar o endereço no navegador. Na página de cadastro, o usuário pode se registrar no sistema utilizando seu nome completo, número de identificação e uma senha válida. Na tela de login, o professor deve informar seu número de identificação e a senha cadastrada previamente. Em seguida, o sistema verifica se as informações são válidas e redireciona o usuário para a página do painel.
+Para utilizar o Sistema de Frequência Simples, basta acessar o software. Na página de cadastro, o usuário pode se registrar no sistema utilizando seu nome completo, número de identificação e uma senha válida. Na tela de login, o professor deve informar seu número de identificação e a senha cadastrada previamente. Em seguida, o sistema verifica se as informações são válidas e redireciona o usuário para a página do painel.
 
-Na página do painel, são exibidos os alunos previamente cadastrados pelo professor. Cada aluno é representado em uma linha, com campos para o RA (número de matrícula), presença/falta/falta justificada e nota. Ao clicar na presença, o sistema exibe as opções mencionadas, permitindo a alteração das datas disponíveis. Ao clicar na nota, o professor pode alterar a nota de cada atividade avaliativa, sendo que o sistema calculará automaticamente a nota final e a situação (aprovado ou reprovado). Assim que o professor clicar no botão de enviar, em qualquer uma das opções, o sistema atualizará a tabela da turma com as informações, facilitando o processo de atualização das tabelas de frequência e proporcionando uma melhor organização e controle das informações.
+Na página principal do painel, o professor visualiza todos os alunos cadastrados, com informações como nome, RA, porcentagem de presença e nota final calculada até o momento. É possível adicionar novos alunos preenchendo os campos de nome e RA.
 
-Na página de frequência, o usuário pode marcar uma das opções entre presente, ausente ou falta justificada para cada aluno na data exibida. Ao clicar no botão de enviar, a tabela será atualizada automaticamente.
+Na parte superior da tela, ao lado do botão "Home", há o botão "Editar Presença/Notas". Ao clicar nesse botão, o sistema abre uma nova página onde o professor pode:
+- Editar a presença diária de cada aluno, marcando "presente" ou "ausente" no dia da aula.
+- Inserir ou alterar as notas das avaliações A1, A2 e A3 de cada aluno.
+
+A nota final é calculada automaticamente com base nas avaliações fornecidas. Ao finalizar as edições, o professor pode clicar no botão "Enviar" para salvar todas as alterações. As informações são atualizadas na tabela principal da turma, facilitando o controle e organização das presenças e desempenho dos alunos.
 
 ## Autores
 
